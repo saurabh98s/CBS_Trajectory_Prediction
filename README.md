@@ -1,4 +1,4 @@
-**# Compositional Behavior Synthesis for Trajectory Prediction
+# Compositional Behavior Synthesis for Trajectory Prediction
 
 **Solving the Compositional Generalization Problem in Autonomous Driving**
 
